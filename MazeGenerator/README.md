@@ -1,5 +1,7 @@
 ## About:
-A small C program that uses recursion to generate a random maze, then output it to a manually generated bitmap. This program was written by (and all art was created by) Tyler Fenske. 
+A small C program that uses recursion to generate a random maze, then output it to a manually generated bitmap. This program was written by (and all art was created by) Tyler Fenske*.
+
+*mazegen.h was created by the professor overseeing this class (CS241) as a guideline for the project. 
 
 ## How to use the program:
 To create a maze bitmap, run mazetest, altering the mazeGenerate() function as desired.
