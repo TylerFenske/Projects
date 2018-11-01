@@ -1,6 +1,9 @@
 # Project: Chat Room
 ## Student(s):  Tyler Fenske
 
+## About
+This program was my most recently created project for CS351 Design of Large Programs. All code was written by Tyler Fenske.
+
 ## Introduction
 This program's main purpose was to implement a Tuple Space from scratch. A basic implementation, 
 as well as a more advanced implementation (using a trie data structure) are both implemented. 
